@@ -1,0 +1,7 @@
+pandas
+numpy
+pymed
+pybliometrics
+semanticscholar
+notebook
+pycurl
